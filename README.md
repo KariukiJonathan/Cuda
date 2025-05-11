@@ -2,4 +2,5 @@
 This repository marks the beginning of my learning journey on Cuda
 
 References: 
-https://github.com/Infatoshi/cuda-course
+- https://github.com/Infatoshi/cuda-course
+- https://www.learncpp.com/
